@@ -1,0 +1,12 @@
+{
+    "name": "actonate/webp",
+    "authors": [
+        {
+            "name": "thinkpad office pc",
+            "email": "dkhanani96@gmail.com"
+        }
+    ],
+    "require": {
+        "rosell-dk/webp-convert": "^2.3"
+    }
+}
